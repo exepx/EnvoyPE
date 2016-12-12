@@ -1,0 +1,6 @@
+name: EnvoyPE
+main: src/EnvoyPE
+version: "0.1"
+api: [1.13.1, 2.0.0, 2.0.1]
+author: exepx/NexusPlugin/DevTeam
+
